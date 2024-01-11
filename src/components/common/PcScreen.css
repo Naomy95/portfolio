@@ -1,0 +1,11 @@
+.project{
+  width: 400px;
+  height: 300px
+}
+
+
+@media only screen and (max-width: 450px) {
+  .project {
+   width: 200px;
+  }
+}
