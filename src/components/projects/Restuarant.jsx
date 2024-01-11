@@ -49,7 +49,7 @@ interface, user authentication and restuarant booking system
         <p className="text-brown font-sans text-2xl lg:text-4xl py-10 text-start font-bold leading-10">
          Project Links
         </p>
-        <div className='w-1/6 hover:cursor-pointer'>
+        <div className='lg:w-1/6 w-1/2 hover:cursor-pointer'>
           <SkillButton skills="Github Link" onClick={()=>window.open("https://github.com/Naomy95/resturant_app_client.git")}/>
         </div>
        

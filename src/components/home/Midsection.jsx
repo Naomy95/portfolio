@@ -26,16 +26,15 @@ const Midsection = () => {
           <SkillButton skills="HTML" />
           <SkillButton skills="CSS3" />
           <SkillButton skills="JavaScript" />
-          <SkillButton skills="JavaScript" />
-          <SkillButton skills="JavaScript" />
-          <SkillButton skills="JavaScript" />
-          <SkillButton skills="JavaScript" />
-          <SkillButton skills="JavaScript" />
-          <SkillButton skills="JavaScript" />
-          <SkillButton skills="JavaScript" />
-          <SkillButton skills="JavaScript" />
-          <SkillButton skills="JavaScript" />
-          <SkillButton skills="JavaScript" />
+          <SkillButton skills="React" />
+          <SkillButton skills="Node" />
+          <SkillButton skills="Python" />
+          <SkillButton skills="Java" />
+          <SkillButton skills="Docker" />
+          <SkillButton skills="Kubernetes" />
+          <SkillButton skills="AWS" />
+          <SkillButton skills="Typescript" />
+         
         </div>
       </div>
     </div>
